@@ -8,7 +8,8 @@ We ran our code on Ubuntu 24.04, and the required packages are in the requiremen
 
 By running the code, you should see something like this at first:
 
-![Screenshot from 2024-07-14 19-18-25](https://github.com/user-attachments/assets/b534ba55-0b83-49d4-8e03-04cbf2601598)
+![Screenshot from 2024-07-14 20-03-54](https://github.com/user-attachments/assets/c890e423-0f08-43a8-9c0f-edcd7b27f500)
+
 
 And this at the end:
 
