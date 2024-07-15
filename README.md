@@ -15,4 +15,4 @@ And this at the end:
 ![Screenshot from 2024-07-14 20-00-03](https://github.com/user-attachments/assets/c1badf61-1435-4ff7-8194-93541d032cc7)
 
 
-Notably, the aforementioned information is only a sample, and you may see different results by using the whole dataset.
+Notably, they are only samples, and you may see different results by using the whole dataset.
