@@ -8,25 +8,9 @@ We ran our code on Ubuntu 24.04, and the required packages are in the requiremen
 
 By running the code, you should see something like this at first:
 
-Model: "functional"
+![Screenshot from 2024-07-14 19-18-25](https://github.com/user-attachments/assets/b534ba55-0b83-49d4-8e03-04cbf2601598)
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
-┃ Layer (type)                    ┃ Output Shape           ┃       Param # ┃
-┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
-│ main_input (InputLayer)         │ (None, 100, 200)       │             0 │
-├─────────────────────────────────┼────────────────────────┼───────────────┤
-│ LSTM1 (LSTM)                    │ (None, 100, 50)        │        50,200 │
-├─────────────────────────────────┼────────────────────────┼───────────────┤
-│ flatten (Flatten)               │ (None, 5000)           │             0 │
-├─────────────────────────────────┼────────────────────────┼───────────────┤
-│ classifier (Dense)              │ (None, 2)              │        10,002 │
-└─────────────────────────────────┴────────────────────────┴───────────────┘
- Total params: 60,202 (235.16 KB)
- Trainable params: 60,202 (235.16 KB)
- Non-trainable params: 0 (0.00 B)
-
-...
-
+And this at the end:
 The average Delay per flow is: 0.055161 sec +/- 0.010924 sec
               precision    recall  f1-score   support
 
