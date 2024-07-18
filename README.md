@@ -2,8 +2,8 @@
 
 ## Ebrahim Fard . Mahdi Soltani . Amir Hossein Jahangir . Seokbum Ko
 
-In this repo, we provide the scripts of the paper 
-"Tiny-IDS: A Tiny Deep Neural Network-based Intrusion Detection System"
+In this repo, we provide the scripts of the paper  
+"Tiny-IDS: A Tiny Deep Neural Network-based Intrusion Detection System"  
 a DNN-based Intrusion Detection System (IDS) that can be utilized in Embedded Systems due to its small number of weights. We used the CIC-IDS2017 dataset to validate the proposed method.
 For more details, you can take a look at [here](https://github.com/INL-Laboratory/Continual-Federated-IDS).
 
