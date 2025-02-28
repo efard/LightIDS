@@ -1,0 +1,13 @@
+python3.9 -m venv venv_3.9
+source venv_3.9/bin/activate
+
+files:
+my_IDS.py
+generator_classifier.py
+
+python3.9
+pip install tf-nightly
+pip install -U scikit-learn scipy matplotlib
+python -m pip install tflite-runtime
+pip install np_utils
+pip install tensorflow[and-cuda]
