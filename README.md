@@ -98,4 +98,4 @@ The following figure presents the hardware resource utilization of the implement
 
 <img width="810" height="270" alt="Screenshot From 2025-10-19 22-43-05" src="https://github.com/user-attachments/assets/06d772ae-a8b8-41c8-9e3d-2d2797289378" />
 
-If you find this project useful, please consider starring the repository to support the research.
+**If you find this project useful, please consider starring the repository to support the research.**
