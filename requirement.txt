@@ -11,3 +11,4 @@ pip install -U scikit-learn scipy matplotlib
 python -m pip install tflite-runtime
 pip install np_utils
 pip install tensorflow[and-cuda]
+
