@@ -8,7 +8,8 @@
 **LightIDS** is a Deep Neural Network-based Intrusion Detection System (IDS) designed for **resource-constrained environments**.  
 Its lightweight architecture enables efficient deployment while maintaining high accuracy in network threat detection.  
 
-This repository contains the source code and implementation details for the paper:
+This repository contains the source code and implementation details for the paper: 
+
 *“[LightIDS: A Lightweight Neural Network-based Intrusion Detection System](https://link.springer.com/article/10.1007/s11227-025-08158-x)”*
 
 ---
