@@ -10,7 +10,7 @@ Its lightweight architecture enables efficient deployment while maintaining high
 
 This repository contains the source code and implementation details for the paper: 
 
-*“[LightIDS: A Lightweight Neural Network-based Intrusion Detection System](https://link.springer.com/article/10.1007/s11227-025-08158-x)”*
+*“[LightIDS: A Lightweight Neural Network-based Intrusion Detection System](https://link.springer.com/article/10.1007/s11227-025-08158-x)”, The Journal of Supercomputing, 2025*
 
 ---
 
